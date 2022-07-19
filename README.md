@@ -33,4 +33,9 @@ SO THAT I have quick access to their emails and GitHub profiles
 
 Walkthrough Video
 
-![Video Caption](videowalkthrough/homework #10 TEAM PROFILE GENERATOR Jul 18, 2022 9_22 PM.gif)homework #10 TEAM PROFILE GENERATOR Jul 18, 2022 9_22 PM.gif)
+![Video Caption](<iframe src="https://drive.google.com/file/d/1N25u8U0kx9TAjHZJYgi753EJouzST45u/preview" width="640" height="480"></iframe>)
+
+
+LIVE URL: https://github.com/Jennycoranguez/Team-Profile-Generator
+
+GITHUB URL: https://jennycoranguez.github.io/Team-Profile-Generator/
