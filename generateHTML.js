@@ -1,4 +1,8 @@
-<!DOCTYPE html>
+// used to create a html
+export default function generateHTML(teammembers) {
+    // based on the teammembers it will generate html
+    return `
+    <!DOCTYPE html>
 <html lang="en">
     <head>
         <meta charset="UTF-8">
@@ -7,8 +11,10 @@
         <link rel="stylesheet"> 
     <head>
         <title>Team Profile Generator</title>
+        
       </head>
   <body>
+    `
+}
 
-
-        
+//module.exports = generateHTML;
