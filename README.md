@@ -32,3 +32,5 @@ SO THAT I have quick access to their emails and GitHub profiles
 
 
 Walkthrough Video
+
+![Video Caption](videowalkthrough/homework #10 TEAM PROFILE GENERATOR Jul 18, 2022 9_22 PM.gif)homework #10 TEAM PROFILE GENERATOR Jul 18, 2022 9_22 PM.gif)
